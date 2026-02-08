@@ -20,6 +20,7 @@ body {
     display: flex;
     background-color: rgba(255, 255, 255, 0.823);
     align-items: center;
+    justify-content: space-between;
     z-index: 1000;
 }
 

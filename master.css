@@ -23,6 +23,11 @@ body {
     z-index: 1000;
 }
 
+.info {
+    padding-right: 50px;
+    letter-spacing: -1px;
+}
+
 .profile {
     display: flex;
     margin-left: 30px;
